@@ -1,12 +1,8 @@
-## Hi there 👋
+## Botaxie | Online Axie infinity Marketplace 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Botaxie](https://www.botaxie.org) is an online tool to run bots to automatically buy axies that match your configuration, when they are listed.
+- No more spending hours on the marketplace.
+- Create a configuration, by setting your requirements for the axie, ie. max price to pay, cards, min stats, etc...
+- Launch The configuration, and that will create a bot instance that will keep running until it finds a good axie.
+### NEVER USE YOUR MAIN ACCOUNT
+### NEVER BUY MORE THAN 4 AXIES PER DAY USING BOTAXIE TO AVOID GETTING BANNED
