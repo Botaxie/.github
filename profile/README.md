@@ -13,3 +13,6 @@
 
 ### JOIN US ON [DISCORD](https://discord.gg/F39VR9CXyh) TO BE NOTIFIED WHEN BOTAXIE IS LAUNCHED 
 ### OFFICIAL WEBSITE : [botaxie.org](botaxie.org)
+
+- Visitor Count :
+  ![Visitor Count](https://profile-counter.glitch.me/botaxie/count.svg)
