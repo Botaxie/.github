@@ -1,4 +1,4 @@
-## Botaxie | Online Axie infinity Marketplace 👋
+### Botaxie | Online Axie infinity Marketplace 👋
 
 - [Botaxie](https://www.botaxie.org) is an online tool to run bots to automatically buy axies that match your configuration, when they are listed.
 - No more spending hours on the marketplace.
