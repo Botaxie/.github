@@ -11,7 +11,7 @@
 
 ### FOR BUSINESS INQUIRIES, CONTACT agency@botaxie.org
 
-### JOIN US ON [DISCORD](https://discord.gg/F39VR9CXyh) TO BE NOTIFIED WHEN BOTAXIE IS LAUNCHED 
+### JOIN US ON [DISCORD](https://discord.gg/grMVsVYjdF) TO BE NOTIFIED WHEN BOTAXIE IS LAUNCHED 
 ### OFFICIAL WEBSITE : [botaxie.org](http://botaxie.org)
 
 - Visitor Count :
