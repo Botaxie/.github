@@ -9,8 +9,6 @@
 
 ### Botaxie is free to use, but charges a fee of 4% of the price of the axie bought
 ### NEVER USE YOUR MAIN ACCOUNT
-### NEVER BUY MORE THAN 4 AXIES PER DAY USING BOTAXIE TO AVOID GETTING BANNED
-
 --------
 ### Official website : [botaxie.org](http://botaxie.org)
 ### Join us on [Discord](https://discord.gg/grMVsVYjdF)
