@@ -16,6 +16,7 @@
 - Min/Max Pureness of genes (0%-100%)
 
 ## Botaxie status : LIVE 🟢
+--------
 
 ### Botaxie is free to use, but charges a fee of 4% of the price of the axie bought
 ### NEVER USE YOUR MAIN ACCOUNT
